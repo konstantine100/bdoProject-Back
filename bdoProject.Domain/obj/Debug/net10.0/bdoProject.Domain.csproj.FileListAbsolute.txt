@@ -1,0 +1,12 @@
+C:\Users\LENOVO_LEGION\Desktop\BDO Project\bdoProj\bdoProject.Domain\bin\Debug\net10.0\bdoProject.Domain.deps.json
+C:\Users\LENOVO_LEGION\Desktop\BDO Project\bdoProj\bdoProject.Domain\bin\Debug\net10.0\bdoProject.Domain.dll
+C:\Users\LENOVO_LEGION\Desktop\BDO Project\bdoProj\bdoProject.Domain\bin\Debug\net10.0\bdoProject.Domain.pdb
+C:\Users\LENOVO_LEGION\Desktop\BDO Project\bdoProj\bdoProject.Domain\obj\Debug\net10.0\bdoProject.Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO_LEGION\Desktop\BDO Project\bdoProj\bdoProject.Domain\obj\Debug\net10.0\bdoProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_LEGION\Desktop\BDO Project\bdoProj\bdoProject.Domain\obj\Debug\net10.0\bdoProject.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO_LEGION\Desktop\BDO Project\bdoProj\bdoProject.Domain\obj\Debug\net10.0\bdoProject.Domain.AssemblyInfo.cs
+C:\Users\LENOVO_LEGION\Desktop\BDO Project\bdoProj\bdoProject.Domain\obj\Debug\net10.0\bdoProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_LEGION\Desktop\BDO Project\bdoProj\bdoProject.Domain\obj\Debug\net10.0\bdoProject.Domain.dll
+C:\Users\LENOVO_LEGION\Desktop\BDO Project\bdoProj\bdoProject.Domain\obj\Debug\net10.0\refint\bdoProject.Domain.dll
+C:\Users\LENOVO_LEGION\Desktop\BDO Project\bdoProj\bdoProject.Domain\obj\Debug\net10.0\bdoProject.Domain.pdb
+C:\Users\LENOVO_LEGION\Desktop\BDO Project\bdoProj\bdoProject.Domain\obj\Debug\net10.0\ref\bdoProject.Domain.dll

@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>9b9714bd-b12e-4f91-b2f5-af463b60dc74</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="FluentValidation" Version="12.1.1" />
+        <PackageReference Include="HotChocolate.AspNetCore" Version="16.0.0" />
+        <PackageReference Include="HotChocolate.AspNetCore.Authorization" Version="16.0.0" />
+        <PackageReference Include="HotChocolate.Data" Version="16.0.0" />
+        <PackageReference Include="MediatR" Version="14.2.0" />
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.25" />
+        <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="10.0.2" />
+        <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.3" />
+        <PackageReference Include="Scriban" Version="7.5.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\bdoProject.Domain\bdoProject.Domain.csproj" />
+      <ProjectReference Include="..\bdoProject.Infrastructure\bdoProject.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>

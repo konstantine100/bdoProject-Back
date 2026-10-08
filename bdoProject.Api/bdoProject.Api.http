@@ -1,0 +1,6 @@
+@bdoProject.Api_HostAddress = http://localhost:5010
+
+GET {{bdoProject.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
